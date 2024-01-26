@@ -1,0 +1,29 @@
+{
+  "name": "menor_que_backend_barra_maior_que",
+  "version": "1.0.0",
+  "description": "API em Node do projeto cinco_ou_seis_linhas_de_codigo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasDalben/menor_que_backend_barra_maior_que.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasDalben/menor_que_backend_barra_maior_que/issues"
+  },
+  "homepage": "https://github.com/LucasDalben/menor_que_backend_barra_maior_que#readme",
+  "devDependencies": {
+    "@types/node": "^20.11.6",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@fastify/cors": "^8.5.0",
+    "fastify": "^4.25.2",
+    "tsx": "^4.7.0"
+  }
+}
