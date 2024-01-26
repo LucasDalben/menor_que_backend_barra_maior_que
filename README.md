@@ -1,0 +1,2 @@
+# menor_que_backend_barra_maior_que
+API em Node do projeto cinco_ou_seis_linhas_de_codigo
